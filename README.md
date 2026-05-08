@@ -141,3 +141,12 @@ If you like this repository, feel free to:
 # 📌 Note
 
 This repository is continuously updated as I learn new concepts and technologies.
+
+```
+git init
+git remote add origin https://github.com/ChiranjithChkz/Python_For_AI.git
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+```
